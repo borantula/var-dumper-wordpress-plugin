@@ -18,8 +18,6 @@ After installing the plugin, if you have the sufficient PHP version you can star
 
 Original var-dump package: https://github.com/symfony/var-dumper
 
-Make dump, not var_dump.
-
 
 == Installation ==
 
