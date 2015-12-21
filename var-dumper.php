@@ -15,7 +15,7 @@
  Plugin Name:       VarDumper
  Plugin URI:        http://borayalcin.me
  Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- Version:           1.0.0
+ Version:           1.0.2
  Author:            Bora Yalcin
  Author URI:        http://borayalcin.me
  License:           GPL-2.0+
