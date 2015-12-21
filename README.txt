@@ -16,7 +16,7 @@ A plugin to include var-dump package to use dump function while developing or de
 
 After installing the plugin, if you have the sufficient PHP version you can start using dump() function.
 
-Original var-dump package: https://github.com/symfony/var-dumper
+Original var-dump package used in this plugin: https://github.com/symfony/var-dumper
 
 
 == Installation ==
@@ -37,4 +37,3 @@ var-dump package requires PHP version 5.5.9 or higher. You'll get a notification
 = What is the package used? =
 
 It is the var-dumper package from Symfony project. https://github.com/symfony/var-dumper
-
