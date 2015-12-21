@@ -12,17 +12,16 @@
  * @since             1.0.0
  * @package           Var_Dumper
  *
- * @wordpress-plugin
- * Plugin Name:       VarDumper
- * Plugin URI:        http://borayalcin.me
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
- * Author:            Bora Yalcin
- * Author URI:        http://borayalcin.me
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       var-dumper
- * Domain Path:       /languages
+ Plugin Name:       VarDumper
+ Plugin URI:        http://borayalcin.me
+ Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ Version:           1.0.0
+ Author:            Bora Yalcin
+ Author URI:        http://borayalcin.me
+ License:           GPL-2.0+
+ License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ Text Domain:       var-dumper
+ Domain Path:       /languages
  */
 
 // If this file is called directly, abort.
