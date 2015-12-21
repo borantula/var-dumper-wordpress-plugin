@@ -7,6 +7,6 @@
   "description": "var-dump package included for WordPress",
   "type": "project",
   "require": {
-    "symfony/var-dumper": "*"
+    "symfony/var-dumper": "3.0.0"
   }
 }
